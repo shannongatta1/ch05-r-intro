@@ -18,3 +18,5 @@ too.expensive <- total.cost > 1000
 # value in R, not just assign!
 max_puppies <- 1000/ puppy.price
 round(max_puppies)
+
+dd
